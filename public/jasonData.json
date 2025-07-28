@@ -1,0 +1,256 @@
+[
+  {
+    "id": 1,
+    "name": "Arif Hossain",
+    "specialty": "Criminal Law",
+    "experience": 12,
+    "email": "arif.criminal@example.com",
+    "phone": "+8801711111111",
+    "address": "Dhaka, Bangladesh",
+    "image": "https://i.ibb.co/HDFPqPML/m1.jpg",
+    "fee":9000,
+    "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+
+    "licenseNo": "BD-CR-202301"
+  },
+  {
+    "id": 2,
+    "name": "Sadia Akter",
+    "specialty": "Family Law",
+    "experience": 8,
+    "email": "sadia.family@example.com",
+    "phone": "+8801711111112",
+    "address": "Chittagong, Bangladesh",
+    "image": "https://i.ibb.co/W4mtHKGY/fm7.jpg",
+    "fee":5000,
+    "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Friday"
+    ],
+    "licenseNo": "BD-FM-202114"
+  },
+  {
+    "id": 3,
+    "name": "Faisal Rahman",
+    "specialty": "Corporate Law",
+    "experience": 15,
+    "email": "faisal.corporate@example.com",
+    "phone": "+8801711111113",
+    "address": "Dhaka, Bangladesh",
+    "image": "https://i.ibb.co/8nkrf468/m2.jpg",
+    "fee":7000,
+   "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-CP-201002"
+  },
+  {
+    "id": 4,
+    "name": "Nusrat Jahan",
+    "specialty": "Immigration Law",
+    "experience": 10,
+    "email": "nusrat.immigration@example.com",
+    "phone": "+8801711111114",
+    "address": "Sylhet, Bangladesh",
+    "image": "https://i.ibb.co/YBNJkLxZ/fm1.jpg",
+    "fee":6600,
+  "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-IM-201522"
+  },
+  {
+    "id": 5,
+    "name": "Tanvir Alam",
+    "specialty": "Real Estate Law",
+    "experience": 7,
+    "email": "tanvir.realestate@example.com",
+    "phone": "+8801711111115",
+    "address": "Khulna, Bangladesh",
+    "image": "https://i.ibb.co/35bH7tp2/m3.jpg",
+    "fee":6600,
+  "AvilableBadge":"Not Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-RE-201811"
+  },
+  {
+    "id": 6,
+    "name": "Rumana Kabir",
+    "specialty": "Labor Law",
+    "experience": 11,
+    "email": "rumana.labor@example.com",
+    "phone": "+8801711111116",
+    "address": "Rajshahi, Bangladesh",
+    "image": "https://i.ibb.co/C5d9Q4WM/fm2.jpg",
+    "fee":4900,
+  "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-LB-201410"
+  },
+  {
+    "id": 7,
+    "name": "Zahidul Islam",
+    "specialty": "Tax Law",
+    "experience": 9,
+    "email": "zahid.tax@example.com",
+    "phone": "+8801711111117",
+    "address": "Dhaka, Bangladesh",
+    "image": "https://i.ibb.co/NdQP4n54/m4.jpg",
+    "fee":5300,
+  "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-TX-201709"
+  },
+  {
+    "id": 8,
+    "name": "Mehjabin Chowdhury",
+    "specialty": "Civil Litigation",
+    "experience": 6,
+    "email": "mehjabin.civil@example.com",
+    "phone": "+8801711111118",
+    "address": "Comilla, Bangladesh",
+    "image": "https://i.ibb.co/ZzMPmCPt/fm3.jpg",
+    "fee":2900,
+  "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-CV-202001"
+  },
+  {
+    "id": 9,
+    "name": "Asif Mahmud",
+    "specialty": "Constitutional Law",
+    "experience": 14,
+    "email": "asif.constitutional@example.com",
+    "phone": "+8801711111119",
+    "address": "Dhaka, Bangladesh",
+    "image": "https://i.ibb.co/S4wYKJBc/m5.jpg",
+    "fee":8800,
+  "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-CS-200912"
+  },
+  {
+    "id": 10,
+    "name": "Sharmin Sultana",
+    "specialty": "Environmental Law",
+    "experience": 5,
+    "email": "sharmin.environment@example.com",
+    "phone": "+8801711111120",
+    "address": "Barisal, Bangladesh",
+    "image": "https://i.ibb.co/fVrvK5x1/fm4.jpg",
+    "fee":3598,
+  "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-EN-202118"
+  },
+  {
+    "id": 11,
+    "name": "Imran Hossain",
+    "specialty": "Banking Law",
+    "experience": 13,
+    "email": "imran.banking@example.com",
+    "phone": "+8801711111121",
+    "address": "Dhaka, Bangladesh",
+    "image": "https://i.ibb.co/vvHgGMgR/m6.jpg",
+    "fee":4400,
+  "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-BK-201103"
+  },
+  {
+    "id": 12,
+    "name": "Farhana Yasmin",
+    "specialty": "International Law",
+    "experience": 16,
+    "email": "farhana.international@example.com",
+    "phone": "+8801711111122",
+    "address": "Chittagong, Bangladesh",
+    "image": "https://i.ibb.co/mrkJc4q5/fm5.jpg",
+    "fee":7520,
+  "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-IN-200701"
+  },
+  {
+    "id": 13,
+    "name": "Kamal Uddin",
+    "specialty": "Intellectual Property Law",
+    "experience": 9,
+    "email": "kamal.ip@example.com",
+    "phone": "+8801711111123",
+    "address": "Dhaka, Bangladesh",
+    "image": "https://i.ibb.co/Ngf8N4h3/m7.jpg",
+    "fee":6363,
+  "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-IP-201615"
+  },
+  {
+    "id": 14,
+    "name": "Tanjina Rahman",
+    "specialty": "Human Rights Law",
+    "experience": 7,
+    "email": "tanjina.humanrights@example.com",
+    "phone": "+8801711111124",
+    "address": "Rangpur, Bangladesh",
+    "image": "https://i.ibb.co.com/JjsD9rF7/Jpg-349-1024x683.webp",
+    "fee":10000,
+  "AvilableBadge":"Available",
+    "available": [
+      "Sunday",
+      "Monday",
+      "Tuesday"
+    ],
+    "licenseNo": "BD-HR-201920"
+  }
+]

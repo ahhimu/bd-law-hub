@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "1. What is useState and how does it work in React?",
+    "answer": "React এর একটি Hook যা মাধ্যমে Component এর State manage করা যায়।এটি মুলত একটি Array return করে।১.যার প্রথম Array value টি হলো Current state value মান।২.দ্বিতীয় value  টি হলো একটি Function যার মাধ্যমে State update করা যায়।"
+  },
+  {
+    "id": 2,
+    "question": "2. What is the purpose of useEffect in React?",
+    "answer": "React এর অন্যতম গুরুত্বপূর্ণ একটি Hook হলো useEffect যার মাধ্যমে Component এর Side Effect control করা যায়।useEffect এর উদ্দেশ্য :React Component এর এমন কিছু কাজ এর প্রয়োজন হয় যা rendering এর বাহিরের কিছু।যেমন:১.Api থেকে ডাটা আনা।২.LocalStorage  থেকে ডাটা আনা।৩.Dom ম্যানিপুলেশনএগুলা করার জন্য useEffect ব্যাবহার করি।"
+  },
+  {
+    "id": 3,
+    "question": "3. What is a custom hook in React and when should you use one?",
+    "answer": "Custom Hook হলো Javascript function যার নাম use দিয়ে শুরু কারা হয় এবং এই function এর মধ্যে react এর Hook ব্যাবহার করা হয়।যেমন: useState,useEffectব্যাবহার করব যখন:১.একটি Logic একাধিক Component এ ব্যাবহার হলে।"
+  },
+  {
+    "id": 4,
+    "question": "4. Difference between controlled and uncontrolled components. Which one is better?",
+    "answer": "Controlled : যখন কোন Input কে React এর state দ্বারা Control করা হয় তখন তাকে Control Input বলে।uncontrolled : যখন কোন Input কে Dom নিজেই Control করে তখন সেটা Uncontrolled InputControlled Input তুলনামূলক ভাবে ভালো।  কারন১. এটি দিয়ে সহজেই Validation করা যায়।২. সকল ডাটা এক সাথে রাখা যায়।"
+  },
+  {
+    "id": 5,
+    "question": "5. Tell us something about useFormStatus() in React.",
+    "answer": "useFormStatus হলো React এর একটি Hook যার মাধ্যমে Form submission এর সময়কার তথ্য দিয়ে থাকে। যেমন: ১. ফর্ম Submission হচ্ছে কিনা।২. কোন Mathod দিয়ে পাঠানো হচ্ছে। ৩.  কোন Action এ পাঠানো হচ্ছে।useFormStatus একটি Object দেয় তার মধ্যে key গুলো হলো:Pending 2.data3.mathod4.action"
+  }
+]
