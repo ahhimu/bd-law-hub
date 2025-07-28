@@ -150,4 +150,9 @@ LIVE : https://github.com/ahhimu/bd-law-hub
 - Change title dynamically:
   - Booking Page → `Booking`
   - Lawyer Details → Lawyer’s Name
+ 
+  - 🧑‍💻 Author
+Md. Ahsan Habib (Ahhimu)
+📧 Email: ahasanhabibhimu.bc@gmail.com
+🔗 GitHub: github.com/ahhimu
 
